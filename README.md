@@ -12,8 +12,15 @@ With Perdita you can test your developments, and use the internal development to
 * **Sound** is emulated, but some _distortion_ may be heard.
 * _Real-time **video mode** switching_ won't display properly on the emulated screen.
 
+## Install
 
-## Build and use perdita
+Perdita is available to install building yourself from source, or using the official DEB package (Debian/Ubuntu-based Linux distributions).
+
+### Install from DEB package
+
+Download the last release package from GirHub, and install manually using APT.
+
+### Build on Linux
 
 Perdita uses the **SDL2 framework** to display the screen contents, so you need to install it on your system (Linux only).
 
